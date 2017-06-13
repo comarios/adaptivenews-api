@@ -1,0 +1,2 @@
+# adaptivenews-api
+AdaptiveNews API

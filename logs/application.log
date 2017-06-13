@@ -1,0 +1,15 @@
+2014-11-20 15:55:28,695 - [INFO] - from play in pool-4-thread-3 
+Listening for HTTP on /0:0:0:0:0:0:0:0%0:9000
+
+2014-11-20 15:55:57,874 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://localhost:3306/adaptivenews
+
+2014-11-20 15:55:58,334 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-11-20 16:21:22,343 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://localhost:3306/adaptivenews
+
+2014-11-20 16:21:22,352 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
